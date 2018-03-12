@@ -2,8 +2,8 @@
 
 ## Architecture
 
-<img src="screenshots/1-Arac-Kiralama.png" width="250" alt="Screenshot"> 
+<img src="screenshots/1-Arac-Kiralama.png" width="750" alt="Screenshot"> 
 
 ## Screenshot
 
-<img src="screenshots/1-Arac-KiralamaSS.png" width="250" alt="Screenshot"> 
+<img src="screenshots/1-Arac-KiralamaSS.png" width="750" alt="Screenshot"> 
