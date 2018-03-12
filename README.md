@@ -2,8 +2,8 @@
 
 ## Architecture
 
-![](screenshots/1-Arac-Kiralama.png)
+<img src="screenshots/1-Arac-Kiralama.png" width="250" alt="Screenshot"> 
 
 ## Screenshot
 
-![](screenshots/1-Arac-KiralamaSS.png)
+<img src="screenshots/1-Arac-KiralamaSS.png" width="250" alt="Screenshot"> 
